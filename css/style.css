@@ -1,0 +1,184 @@
+/* Available Fonts
+    font-family: "Montserrat", sans-serif;
+    font-family: "Lora", serif;
+
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+*/
+
+body {
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 0;
+}
+
+li,p {
+    font-size: 1.3rem;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+
+div {
+    margin: 0;
+}
+
+.introduction {
+    position: relative;
+}
+
+.my_data {
+    width: 50%;
+}
+
+.the_logo {
+    width: 50%;
+}
+
+.teamlogo {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    opacity: 0.1;
+}
+
+.name {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.0rem;
+    line-height: 0.5;
+}
+
+.profilepic {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.intro {
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+
+.skill {
+    background-color: darkcyan;
+    width: 50%;
+}
+
+.experience {
+    background-color: darkslategrey;
+    width: 50%;
+}
+
+.experiencetitle {
+    padding-top: 50px;
+}
+.single1 {
+    background-color: bisque;
+}
+
+.education {
+    background-color: darkseagreen;
+    width: 50%;
+}
+
+.certificate {
+    background-color: grey;
+    width: 50%;
+}
+
+.single2 {
+    background-color: chocolate;
+}
+
+.Language {
+    text-align: center;
+    background-color: darksalmon;
+    width: 60%;
+}
+
+.hobbies {
+    background-color: hotpink;
+    width: 50%;
+}
+.hire_me {
+    background-color: black;
+    height: 100px;
+    padding-top: 20px;
+}
+.btn {
+    background: black;
+    background-image: -webkit-linear-gradient(top, black, black);
+    background-image: -moz-linear-gradient(top, black, black);
+    background-image: -ms-linear-gradient(top, black, black);
+    background-image: -o-linear-gradient(top, black, black);
+    background-image: linear-gradient(to bottom, black, black);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: darkseagreen;
+    font-size: 25px;
+    padding: 0px 20px 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    position: absolute;
+    right: 70%;
+    height: 20%;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+
+.contact {
+    padding: 50px;
+    position: relative;
+    background-color: darkslategrey;
+    height: 40px;
+}
+
+.linkedin {
+    position: absolute;
+    right: 10%;
+    height: 50px;
+    padding-right: 10%;
+}
+.twitter {
+    position: absolute;
+    right: 20%;
+    height: 50px;
+    padding-right: 10%;
+}
+.facebook {
+    position: absolute;
+    right: 30%;
+    height: 50px;
+    padding-right: 10%;
+}
+.gmail {
+    position: absolute;
+    right: 50%;
+    height: 50px;
+}
